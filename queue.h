@@ -1,8 +1,5 @@
-//
-// Created by Алина on 25.10.2024.
-//
+#pragma once
 
-#ifndef WORKINPAIRS_QUEUE_H
-#define WORKINPAIRS_QUEUE_H
+#pragma once
 
-#endif //WORKINPAIRS_QUEUE_H
+typedef struct Queue Queue;
