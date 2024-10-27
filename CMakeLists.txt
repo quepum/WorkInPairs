@@ -7,4 +7,4 @@ include_directories(.)
 
 add_executable(WorkInPairs
         main.c
-        queue.h)
+        queue.h "out/build/queue.c")
