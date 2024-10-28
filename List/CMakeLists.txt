@@ -5,6 +5,4 @@ set(CMAKE_C_STANDARD 11)
 
 include_directories(.)
 
-add_executable(WorkInPairs
-        main.c
-        list.h list.c)
+add_executable(WorkInPairs main.c list.h list.c)
